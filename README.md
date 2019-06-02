@@ -1,1 +1,1 @@
-# mysecondproject
+# my_second_project
